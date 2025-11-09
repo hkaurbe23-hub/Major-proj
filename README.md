@@ -237,13 +237,6 @@ npm run lint         # Run ESLint
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Team
-
-- **Shreyansh Shukla** - Team Leader & Full Stack Developer
-- **Akash Singh** - Authentication & User Flow
-- **Purushottam Pandey** - Dashboard & Data Management
-- **Shivansh Mishra** - UI/UX & Responsive Design
-- **Harshit Dwivedi** - Routing & Frontend Components
 
 ## 🙏 Acknowledgments
 
@@ -259,6 +252,6 @@ For support, email support@blockmarketai.com or create an issue in this reposito
 
 ---
 
-**Built with ❤️ by Team Shreytan**
+**Built with ❤️ by Harnoor kaur**
 
 *The future of decentralized data trading starts here.* 
